@@ -2,7 +2,7 @@
 
 Final-year **Computer Systems Engineering** student at Universidad Tecnológica de Pereira, Colombia. I build full-stack products with **TypeScript, Next.js, and Node** — from a real estate management platform to an MCP server that tracks what I learn and how well I remember it over time.
 
-I'm drawn to the intersection of AI and real systems, and I'm looking for **remote internship opportunities** to keep building things that matter.
+I'm drawn to the intersection of AI and real systems, and I'm looking for **for remote junior, freelance, or internship opportunities** to keep building things that matter.
 
 🌐 [path.cv/emilycoordoba](https://path.cv/emilycoordoba) &nbsp;·&nbsp; 📫 emilycoordoba@gmail.com
 
@@ -14,7 +14,7 @@ I'm drawn to the intersection of AI and real systems, and I'm looking for **remo
 `Next.js 16` · `MCP SDK` · `Supabase`
 
 **[Habu — Real Estate Platform](https://habu-app.vercel.app)** — Full-stack real estate management system (university capstone): listings, contracts, payments, maintenance, and clients. Interactive maps, a rich-text editor, and complex data tables.
-`Next.js 15` · `Express` · `TypeScript` · `JWT`
+`Next.js 16` · `Express` · `TypeScript` · `JWT`
 
 **[Memory Management Simulator](https://simulador-gestion-de-memoria-so.vercel.app)** — Interactive simulator for OS memory management: segmented paging, FIFO/LRU page replacement, TLB, page faults, and context switching, with real-time metrics. &nbsp;·&nbsp; [code](https://github.com/emilycodesoft/memory-management-simulator)
 `Vue 3` · `Vite` · `Pinia`
