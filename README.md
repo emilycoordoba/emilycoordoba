@@ -4,7 +4,7 @@ Final-year **Computer Systems Engineering** student at Universidad Tecnológica 
 
 I'm drawn to the intersection of AI and real systems, and I'm looking for **for remote junior, freelance, or internship opportunities** to keep building things that matter.
 
-🌐 [path.cv/emilycoordoba](https://path.cv/emilycoordoba) &nbsp;·&nbsp; 📫 emilycoordoba@gmail.com
+📫 emilycoordoba@gmail.com
 
 ---
 
